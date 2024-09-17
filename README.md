@@ -18,13 +18,13 @@ Este projeto é desenvolvido e executado no Google Colab, onde os usuários pode
 - Nenhuma instalação de software local é necessária, exceto para visualização e modificação de arquivos locais, se necessário.
 
 ### Passos para Execução
-1. Acesse o notebook diretamente no Google Colab clicando no link abaixo:
-   [![Abrir no Colab](https://colab.research.google.com/github/LuizCarls/ML_Modelo_Cance_de_Mama/blob/main/ML_Modelo_Cance_de_Mama.ipynb)
+1. Acesse o notebook diretamente no Google Colab clicando no link abaixo:   
+   [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LuizCarls/ML_Modelo_Cance_de_Mama/blob/main/ML_Modelo_Cance_de_Mama.ipynb)
 
-2. Assim que o notebook estiver aberto, execute as células do notebook passo a passo:
+3. Assim que o notebook estiver aberto, execute as células do notebook passo a passo:
    - O notebook já contém todas as instruções para carregar o conjunto de dados, treinar o modelo e visualizar os resultados.
 
-3. O Google Colab fornece um ambiente de execução com recursos de GPU gratuitos (opcional), que podem ser ativados acessando **Runtime > Change runtime type** e selecionando **GPU**.
+4. O Google Colab fornece um ambiente de execução com recursos de GPU gratuitos (opcional), que podem ser ativados acessando **Runtime > Change runtime type** e selecionando **GPU**.
 
 ### Dados
 Os dados usados neste projeto vêm de um conjunto de dados público de câncer de mama. O notebook carrega os dados diretamente a partir de fontes online, então não há necessidade de fazer download manual.
